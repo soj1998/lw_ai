@@ -23,3 +23,6 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-learn
 # 2023年1月11日 对数几率回归
 安装matplotlib 
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple matplotlib
+
+# 2023年2月10日 tushare
+pip install tushare -i https://pypi.tuna.tsinghua.edu.cn/simple
