@@ -25,4 +25,9 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-learn
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple matplotlib
 
 # 2023年2月10日 tushare
+tushare不太好用，调用限制多，要积分，每日不能超过500次
 pip install tushare -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+# 2023年2月11日 akshare
+akshare好用，官网https://akshare.akfamily.xyz/ https://pypi.org/project/akshare/0.2.13/
+pip install akshare -i https://pypi.tuna.tsinghua.edu.cn/simple
