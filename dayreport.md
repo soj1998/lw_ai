@@ -27,7 +27,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple matplotlib
 # 2023年2月10日 tushare
 pip install tushare -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-# 2023年2月10日 akshare 李沐相关
+# 2023年2月18日 akshare 李沐相关
 https://www.akshare.xyz/ 
 https://github.com/akfamily/akshare
 pip install akshare --upgrade -i https://pypi.tuna.tsinghua.edu.cn/simple
