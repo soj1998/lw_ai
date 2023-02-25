@@ -1,0 +1,45 @@
+import numpy as np
+a=np.array([[1,2.1,3],[1,2,3],[3,4,5]])
+# print(a)
+# print(a.dtype)
+# print(a[1,2])
+print(a[:3,1])
+# b=np.array([1.1,2,4])
+# print(b.dtype)
+# c=np.zeros((2,3))
+# print(c)
+# d=np.ones((3,4),dtype=np.int64)
+# print(d)
+# e=np.empty([2,3])
+# print(e)
+# f=np.arange(10,30,5)
+# print(f)
+# g=np.random.rand(3,2)
+# print(g)
+# h=np.random.randint(3,size=5)
+# print(h)
+# i=np.random.randn(3)
+# print(i)
+# j=np.arange(10)**2
+# print(j[1:4])
+# print(j[::-1])
+#
+# a=np.arange(4)
+# b=np.array([1,2,3,4])
+# print(np.var(b))
+
+a= np.array([[1,1],[0,1]])
+b= np.array([[2,0],[3,4]])
+# print(a.dot(b))
+# print(np.linalg.inv(a))
+# print(np.linalg.det(a))
+
+# a=np.floor(10*np.random.random((3,4)))
+# print(a.reshape(4,-1))
+
+# print(np.vstack((a,b)))
+c = np.arange(16,32,2).reshape(4,-1)
+#print(np.vsplit(c,2))
+
+# print(np.zeros(3))
+
