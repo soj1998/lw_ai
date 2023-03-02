@@ -34,3 +34,8 @@ pip install akshare --upgrade -i https://pypi.tuna.tsinghua.edu.cn/simple
 d2l pytorch
 pip install d2l -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install torch torchvision -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+# 2023年3月2日 matplot官网文档
+https://www.matplotlib.org.cn/
+torchtext
+pip install torchtext -i https://pypi.tuna.tsinghua.edu.cn/simple
