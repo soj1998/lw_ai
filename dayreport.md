@@ -39,3 +39,9 @@ pip install torch torchvision -i https://pypi.tuna.tsinghua.edu.cn/simple
 https://www.matplotlib.org.cn/
 torchtext
 pip install torchtext -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+# 2023年3月5日 
+myquant.cn/docs/python/39? 量化掘金网址
+安装gm包
+pip install gm -i https://pypi.tuna.tsinghua.edu.cn/simple
