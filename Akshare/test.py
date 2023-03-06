@@ -2,5 +2,8 @@ import pandas as pd
 import akshare as ak
 
 
-stock_zh_a_spot_em_df = ak.stock_zh_a_spot_em()
-print(stock_zh_a_spot_em_df)
+#stock_zh_a_spot_em_df = ak.stock_zh_a_spot_em()
+#print(stock_zh_a_spot_em_df)
+
+a = [1,2,3,4]
+print(a[:-1])
